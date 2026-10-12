@@ -1,0 +1,14 @@
+UPay/
+├── App/
+├── Core/
+│   ├── Models/
+│   ├── Repositories/
+│   └── Services/
+├── Features/
+│   ├── Home/
+│   ├── Pay/
+│   ├── QR/
+│   ├── History/
+│   └── Profile/
+└── Shared/
+UPayTests/
